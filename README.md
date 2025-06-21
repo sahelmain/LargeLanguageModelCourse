@@ -1,4 +1,4 @@
-# Text Classification Assignment: Human vs AI-Written Text 🤖📝
+# Text Classification: Human vs AI-Written Text 🤖📝
 
 **Assignment**: Text Mining & Machine Learning  
 **Task**: Binary text classification to distinguish between human-written and AI-generated text  
