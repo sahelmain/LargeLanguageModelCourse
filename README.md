@@ -114,7 +114,7 @@ This project implements a complete machine learning pipeline to classify text as
 
 4. **Run the notebook**:
    ```bash
-   jupyter notebook assignment1_text_classification.ipynb
+   jupyter notebook project_text_classification.ipynb
    ```
 
 ## 📈 Results
