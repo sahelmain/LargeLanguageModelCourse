@@ -1,6 +1,6 @@
 # Text Classification: Human vs AI-Written Text 🤖📝
 
-**Assignment**: Text Mining & Machine Learning  
+**Project**: Text Mining & Machine Learning  
 **Task**: Binary text classification to distinguish between human-written and AI-generated text  
 **Accuracy Achieved**: **96.25%** with SVM (Sigmoid kernel)
 
@@ -21,7 +21,7 @@ This project implements a complete machine learning pipeline to classify text as
 ├── Final_predictions.csv                  # Predictions for test data (869 samples)
 ├── AI_vs_human_train_dataset.csv         # Training dataset (3,728 samples)
 ├── Final_test_data.csv                   # Test dataset (869 samples, no labels)
-├── assignment1.txt                       # Assignment requirements
+├── project.txt                       # project requirements
 └── README.md                            # Project documentation
 ```
 
@@ -138,7 +138,7 @@ AI:             15  544
 - **AI misclassified as Human**: 15 cases (more sophisticated AI writing)
 - **Total Error Rate**: 3.75% (42/1119)
 
-## 📝 Assignment Requirements Fulfilled
+## 📝 Project Requirements Fulfilled
 
 ✅ **Data Exploration**: Complete statistical analysis and visualization  
 ✅ **Text Preprocessing**: Stop words, stemming, lemmatization with examples  
@@ -148,12 +148,6 @@ AI:             15  544
 ✅ **Model Evaluation**: Comprehensive metrics and error analysis  
 ✅ **Final Predictions**: 869 test predictions generated and saved  
 
-**Score**: 100/100 points
-
-## 👤 Author
-
-**Sahel Azzam**  
-Student ID: R11814223
 
 ## 📄 License
 
